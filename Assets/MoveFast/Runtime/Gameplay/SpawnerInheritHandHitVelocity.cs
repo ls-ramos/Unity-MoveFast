@@ -27,7 +27,7 @@ namespace Oculus.Interaction.MoveFast
 
             if (_rigidbody && instance.TryGetComponent<Rigidbody>(out var rigidbody))
             {
-                rigidbody.velocity = velocity.LinearVelocity;
+                rigidbody.linearVelocity = velocity.LinearVelocity;
             }
 
             if (_orientation)

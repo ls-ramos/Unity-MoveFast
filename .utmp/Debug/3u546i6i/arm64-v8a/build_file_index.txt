@@ -1,0 +1,3 @@
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing/CMakeLists.txt
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

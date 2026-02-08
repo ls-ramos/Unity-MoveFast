@@ -1,0 +1,8 @@
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/Lucas.DosSantosRamos/Documents/personal/unity/Unity-MoveFast/.utmp/Debug/3u546i6i/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

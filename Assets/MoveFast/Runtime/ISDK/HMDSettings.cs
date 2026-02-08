@@ -14,7 +14,10 @@ namespace Oculus.Interaction.MoveFast
 
         private void Start()
         {
-            OVRManager.display.displayFrequency = _fps;
+            if (OVRManager.display != null)
+            {
+                OVRManager.display.displayFrequency = _fps;
+            }
             OVRManager.useDynamicFoveatedRendering = true;
         }
     }
